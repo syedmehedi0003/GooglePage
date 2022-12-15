@@ -1,0 +1,194 @@
+.navbar {
+    background-color: rgba(246, 239, 239, 0.5);
+    padding: 10px 0px;
+}
+
+.bar-icon i {
+    color: gray;
+    font-size: 20px;
+}
+
+.logo img {
+    width: 150px;
+}
+
+.close {
+    cursor: pointer;
+}
+
+
+.search-input {
+    margin-left: 60px;
+}
+
+.search-box {
+    border: 1px solid gray;
+    width: 580px;
+    height: 38px;
+    border-radius: 3px;
+    padding: 10px 0px;
+}
+
+.input {
+    background-color: #4d90fe;
+    display: flex;
+    align-items: center;
+    padding: 0px 12px;
+}
+
+.input i {
+    color: aliceblue;
+}
+
+.user {
+    position: absolute;
+    right: 20px;
+    margin-top: 10px;
+
+
+}
+
+.user i {
+    color: gray;
+    font-size: 20px;
+}
+
+/*-------------------------- Navbar end ----------------------  */
+
+.article {
+    padding: 14px;
+    color: gray;
+    display: flex;
+}
+
+.article .pera1 {
+    margin-left: 20px;
+}
+
+.article .pera2 {
+    margin-left: 100px;
+    font-size: 15px;
+}
+
+.article .pera3 {
+    position: absolute;
+    right: 30px;
+}
+
+.article .pera3 a {
+    text-decoration: none;
+    color: gray;
+
+}
+
+.hr {
+    margin-top: -30px;
+}
+
+/* --------------------- article part end ------------------------*/
+
+.all-article {
+    padding: 10px 24px;
+    margin-left: 30px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.red {
+    color: rgb(204, 73, 73);
+
+}
+
+.hr-width {
+    width: 130px;
+}
+
+/* --------------------  */
+
+.content {
+    width: 50%;
+    margin-left: 60px;
+}
+
+.content-2 {
+    width: 95%;
+    margin-left: 60px;
+}
+
+.content-3 {
+    width: 50%;
+}
+
+.text-color {
+    color: rgb(10, 10, 179);
+}
+
+.bg-color {
+    color: green;
+}
+
+.logo2 {
+    text-align: center;
+}
+
+.number a {
+    text-decoration: none;
+    margin-right: 6px;
+}
+
+.footer {
+    background-color: rgba(204, 204, 204, .5);
+
+}
+
+.footer-button {
+    position: absolute;
+    right: 20px;
+    padding: 10px;
+}
+
+.footer-button a {
+    color: gray;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+/* offcanvas  */
+
+.offcanvas,
+.offcanvas-lg,
+.offcanvas-md,
+.offcanvas-sm,
+.offcanvas-xl,
+.offcanvas-xxl {
+    --bs-offcanvas-zindex: 1045;
+    --bs-offcanvas-width: 240px;
+    --bs-offcanvas-height: 30vh;
+    --bs-offcanvas-padding-x: 1rem;
+    --bs-offcanvas-padding-y: 1rem;
+    --bs-offcanvas-color: ;
+    --bs-offcanvas-bg: #fff;
+    --bs-offcanvas-border-width: 1px;
+    --bs-offcanvas-border-color: var(--bs-border-color-translucent);
+    --bs-offcanvas-box-shadow: 0 0.125rem 0.25remrgba(0, 0, 0, 0.075);
+}
+
+
+.off-width {
+    width: 235px;
+}
+
+.canvas-nav a {
+    font-size: 17px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: rgb(46, 44, 44);
+}
+
+.canvas {
+    color: gray;
+}
+
+.canvas a {
+    margin-left: 10px;
+}
